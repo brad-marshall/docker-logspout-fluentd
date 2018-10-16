@@ -6,5 +6,5 @@ import (
 	_ "github.com/gliderlabs/logspout/transports/tls"
 	_ "github.com/gliderlabs/logspout/transports/udp"
 	_ "github.com/looplab/logspout-logstash"
-	_ "github.com/segmentio/logspout-fluentd"
+	_ "github.com/michaeltravisuk/logspout-fluentd"
 )
